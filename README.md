@@ -22,7 +22,7 @@ We are doing the scenario for **"pre-script"**
 
 5. ### What do the current users use to keep track of prescriptions before the app is developed?
 
-> It is currently a nightmare keeping track of when to do prescriptions; it takes at least a week per prescription, and make sure that
+> User stated, currently the process of prescription admin is chaotic due to an insuffecient method of organisation. It takes at least a week per prescription. The calendar app is used to set the date and times for prescription ordering, pick ups and renewals. The user also needs to remember to set the dates for future meds, which is a hassle and wishes this whole process to be automated by just putting in the information once.
 
 6. ### What is your preferred method of being notified?
 
