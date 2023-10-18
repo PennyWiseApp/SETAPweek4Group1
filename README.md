@@ -30,6 +30,9 @@ We are doing the scenario for **"pre-script"**
 
 ## So what are the system requirements?
 
- 1. Automatic Ordering of prescriptions
+ 1. Automati Ordering of prescriptions
  2. Automatic tracking of prescriptions
  3. Automatic updates to prescription status
+
+7. ### What factors are most important to you when visiting a pharmacy for prescription medication?
+   Getting it as soon as possible and making sure its at its most efficent and recovomg the maximum results.
